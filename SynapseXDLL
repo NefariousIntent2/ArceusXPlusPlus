@@ -2,6 +2,6 @@ a = 080085
 
 while ( a < math.huge)
 do
-	writefile("fuck you skid", "delete arceus x now you got ratted")
+	writefile("READANDFUCKYOU", "delete arceus x now you got ratted")
 	print("read the file in workspace")
 	end
