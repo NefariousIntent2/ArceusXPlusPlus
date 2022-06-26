@@ -12,5 +12,5 @@ Get the file from releases and put in autoexec! Upon executing your scripts can 
 Me
 Synapse Devs
 
-#API
+# API
 API: bigrat.monster
